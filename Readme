@@ -1,0 +1,24 @@
+# Library System
+
+The Library System is a web application for managing books in a library. It provides a set of APIs to perform CRUD operations on books.
+
+## Prerequisites
+
+ .NET Core SDK
+
+1. Clone the repository:
+
+2. Build and Run the project : dotnet run
+
+To run the unit tests, execute the following command:
+
+dotnet test
+
+API Endpoints
+The following API endpoints are available:
+
+GET /api/books - Get all books
+GET /api/books/{id} - Get a book by ID
+POST /api/books - Add a new book
+PUT /api/books/{id} - Update an existing book
+DELETE /api/books/{id} - Delete a book by ID

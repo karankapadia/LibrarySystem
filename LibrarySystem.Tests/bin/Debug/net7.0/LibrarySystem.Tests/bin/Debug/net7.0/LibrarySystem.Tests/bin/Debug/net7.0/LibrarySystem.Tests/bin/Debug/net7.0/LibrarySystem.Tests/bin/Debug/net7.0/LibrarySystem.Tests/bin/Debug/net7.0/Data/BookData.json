@@ -1,0 +1,16 @@
+[
+    {
+        "Id": 1,
+        "Title": "Test Book 1",
+        "Author": "Test Author 1",
+        "Genre": "Genre 1",
+        "PublicationYear": 2020
+    },
+    {
+        "Id": 2,
+        "Title": "Test Book 2",
+        "Author": "Test Author 2",
+        "Genre": "Genre 2",
+        "PublicationYear": 2021
+    }
+]
